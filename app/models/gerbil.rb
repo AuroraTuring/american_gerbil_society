@@ -1,0 +1,3 @@
+class Gerbil < ApplicationRecord
+
+end

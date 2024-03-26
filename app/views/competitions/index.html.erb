@@ -1,7 +1,7 @@
 <% @competitions.each do |comp| %>
-  <br><%= comp.name %>
-  <br><%= comp.location %>
-  <br><%= comp.date %>
-  <br><%= comp.admission_paid %>
-  <br><%= comp.prize_money %>
+  <p>Name: <%= comp.name %>
+  <br>Location: <%= comp.location %>
+  <br>Date: <%= comp.date %>
+  <br>Admission Paid?: <%= comp.admission_paid %>
+  <br>Prize Money: <%= comp.prize_money %></p>
 <% end %>
