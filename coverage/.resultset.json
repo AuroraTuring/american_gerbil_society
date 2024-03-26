@@ -250,6 +250,29 @@
           null
         ]
       },
+      "/Users/aurora/Turing/mod_2_2401/american_gerbil_society/spec/features/competitions/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/aurora/Turing/mod_2_2401/american_gerbil_society/app/models/competition.rb": {
         "lines": [
           1,
@@ -269,7 +292,7 @@
           1,
           null,
           1,
-          0,
+          1,
           null,
           null,
           1,
@@ -286,6 +309,6 @@
         ]
       }
     },
-    "timestamp": 1711410783
+    "timestamp": 1711491551
   }
 }

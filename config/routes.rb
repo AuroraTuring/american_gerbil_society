@@ -6,9 +6,9 @@ Rails.application.routes.draw do
   # get "up" => "rails/health#show", as: :rails_health_check
 
   # Defines the root path route ("/")
-  root "competitions#index"
+  root "competitions#index" # controller-#-action/method
 
-  get "/competitions", to: "competitions#index" # controller-#-action/method
+  get "/competitions", to: "competitions#index"
   get "/competitions/:id", to: "competitions#show"
 
 end
