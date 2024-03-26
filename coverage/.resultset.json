@@ -233,9 +233,13 @@
           null,
           null,
           null,
+          null,
+          null,
+          null,
           1,
           null,
-          null,
+          1,
+          1,
           null,
           null
         ]
@@ -245,8 +249,43 @@
           1,
           null
         ]
+      },
+      "/Users/aurora/Turing/mod_2_2401/american_gerbil_society/app/models/competition.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/aurora/Turing/mod_2_2401/american_gerbil_society/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/aurora/Turing/mod_2_2401/american_gerbil_society/app/controllers/competitions_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/aurora/Turing/mod_2_2401/american_gerbil_society/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1711139433
+    "timestamp": 1711410783
   }
 }
