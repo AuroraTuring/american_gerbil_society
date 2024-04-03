@@ -4,4 +4,8 @@ class GerbilsController < ApplicationController
     @gerbils = Gerbil.all
   end
 
+  def show
+    @gerbil = Gerbil.find(params[:id])
+  end
+
 end
